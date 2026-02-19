@@ -6,7 +6,7 @@ icon: lucide/book-open
 
 # Scientific Visualization with ParaView
 
-This training course introduces scientific visualization using the ParaView application. Participants will first learn the fundamentals of ParaView, including data loading, basic visualization techniques, and essential features for scientific data exploration. During the training, several example data sets will be examined and visualized. We will also show how ParaView can be run on the NAISS resources using hardware-accelerated graphics.
+This training course introduces scientific visualization using the ParaView application. Participants will first learn the fundamentals of ParaView, including data loading, basic visualization techniques, and essential features for scientific data exploration. During the training, several example data sets will be examined and visualized.
 
 No prior experience with ParaView or web development is required.  Participants who would like to "type-along" during the demonstrations should have a laptop with a ParaView installation. It is perfectly ok to watch the demonstrations, if you prefer.  The course will be held in English.
 
