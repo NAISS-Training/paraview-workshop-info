@@ -16,7 +16,7 @@ This course is part of NAISS training.
 
 ## Time and location
 
-The event will be held on 26th February from 9:00 - 12:00 and from 13:00- 14:30.  The event will be held as an online event via zoom.  Closer to the event registered participants will receive a zoom link.
+The event will be held on 7th of April from 9:00 - 12:00 and from 13:00- 15:30.  The event will be held as an online event via zoom.  Closer to the event registered participants will receive a zoom link.
 
 ## Registration
 
