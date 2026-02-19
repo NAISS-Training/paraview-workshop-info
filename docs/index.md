@@ -32,6 +32,8 @@ TBD
 
 ## Questions
 
-Questions and queries regarding the event should be directed to jonas.lindemann@naiss.se, see the getting help page.
+Questions and queries regarding the event should be directed 
+
+[NAISS Support form (on supr.naiss.se)](https://supr.naiss.se/support/?problem_type=training_event)
 
 Jonas Lindemann, 2026
