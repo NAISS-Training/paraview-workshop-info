@@ -20,7 +20,9 @@ The event will be held on 7th of April from 9:00 - 12:00 and from 13:00- 15:30.Â
 
 ## Registration
 
-Please use the registration form to register for the event
+Please use the link below to register for the event.
+
+[Registration form](https://nextcloud.naiss.se/apps/forms/s/YpoP2FLdtsDRQiJ43PxC7ktk)
 
 ## Course home page
 
