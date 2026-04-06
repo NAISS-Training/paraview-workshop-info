@@ -27,6 +27,7 @@ CLOSED
 Example data used during the training can be found in the following repository:
 
 [Example data](https://github.com/jonaslindemann/paraview-workshop)
+[Slides](https://github.com/jonaslindemann/paraview-workshop/blob/main/ParaView-Workshop.pdf)
 
 ## Questions
 
