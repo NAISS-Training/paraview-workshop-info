@@ -20,15 +20,13 @@ The event will be held on 7th of April from 9:00 - 12:00 and from 13:00- 15:30.Â
 
 ## Registration
 
-Please use the link below to register for the event.
+CLOSED
 
-[Registration form for Scientific Visualisation with ParaView (on nextcloud.naiss.se)](https://nextcloud.naiss.se/apps/forms/s/YpoP2FLdtsDRQiJ43PxC7ktk)
+## Course materials
 
-## Course home page
+Example data used during the training can be found in the following repository:
 
-For more information about the course, including the course materials, please visit the course home page here:
-
-TBD
+[Example data](https://github.com/jonaslindemann/paraview-workshop)
 
 ## Questions
 

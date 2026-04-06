@@ -19,4 +19,4 @@ icon: lucide/calendar-days
 | 13.00 - 14.30 | Getting data into ParaView | Lecture |
 | 14.30 - 14.45 | Coffee break | Lecture |
 | 14.45 - 15.00 | Working with exercises | Lecture |
-| 15.00 - 15.30 | Using PyVista and Vedo | Lab |
+| 15.00 - 15.30 | PyVista and more... | Lab |
